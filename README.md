@@ -2,7 +2,7 @@
 
 🚀 **Mobile App Developer | React Native | JavaScript | TypeScript**  
 
-I am a passionate **React Native Developer** with 2 years of experience building high-performance, scalable mobile applications. I specialize in **JavaScript, TypeScript, React Native, Redux,React Js, API integrations, and Firebase**, with a strong focus on creating seamless user experiences.  
+I am a passionate **React Native Developer** with around 3 years of experience building high-performance, scalable mobile applications. I specialize in **JavaScript, TypeScript, React Native, Redux,React Js, API integrations, and Firebase**, with a strong focus on creating seamless user experiences.  
 
 ## 🔥 Tech Stack  
 - **Mobile Development:** React Native, Redux, Firebase, Push Notifications, BLE, Socket.io  
